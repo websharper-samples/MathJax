@@ -1,4 +1,4 @@
-# WebSharper MathJax
+# WebSharper MathJax [![Build status](https://ci.appveyor.com/api/projects/status/732p2nv7h4qx3ufv?svg=true)](https://ci.appveyor.com/project/IntelliFactory/mathjax)
 
 Sample for [WebSharper](https://websharper.com) bindings for MathJax.
 
